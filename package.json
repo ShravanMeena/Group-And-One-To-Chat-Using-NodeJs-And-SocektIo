@@ -1,0 +1,16 @@
+{
+  "name": "group-chat-with-multiple-groups",
+  "version": "1.0.0",
+  "description": "Using Node.js and Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shravan meena",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
