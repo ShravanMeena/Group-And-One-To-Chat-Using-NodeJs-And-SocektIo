@@ -30,7 +30,7 @@ io.sockets.on("connection", function (socket) {
   });
 });
 
-const server = http.listen(500, function () {
+const server = http.listen(5000, function () {
   console.log("Server running on port 5000");
 });
 
